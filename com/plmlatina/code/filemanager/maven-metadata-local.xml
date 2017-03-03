@@ -3,10 +3,11 @@
   <groupId>com.plmlatina.code</groupId>
   <artifactId>filemanager</artifactId>
   <versioning>
-    <release>1.0.6</release>
+    <release>1.0.6-test</release>
     <versions>
       <version>1.0.6</version>
+      <version>1.0.6-test</version>
     </versions>
-    <lastUpdated>20170303220209</lastUpdated>
+    <lastUpdated>20170303221059</lastUpdated>
   </versioning>
 </metadata>
